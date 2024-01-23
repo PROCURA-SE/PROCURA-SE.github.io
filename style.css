@@ -1,0 +1,149 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+    color: #495057;
+}
+
+header {
+    background-color: #483163;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: #333;
+}
+
+section {
+    padding: 3em;
+    text-align: center;
+}
+
+footer {
+    background-color: #343a40;
+    color: #ffffff;
+    text-align: center;
+    padding: 1em 0;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+h2 {
+    color: black;
+}
+
+p {
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    color:whitesmoke;
+}
+
+.corpo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2em;
+}
+
+  .fotos {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.contatos {
+    text-align: center;
+    max-width: 300px;
+    padding: 2em;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.ursinho{
+
+    text-align: center;
+    max-width: 300px;
+    padding: 2em;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+}
+
+.reviews {
+
+    text-align:center;
+
+}
+
+body{
+    background-image: url('download.jpg');
+}
+
+.star{
+    height: 200px;
+}
+
+.download{
+
+    text-align:center;
+    background-color: red; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+
+
+}
+
+.download:hover {
+    
+    background-color: darkred
+
+}
+
+.download:active{
+
+    background-color: darkred;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+}
+
+.PELEPELEPELEPELEPELE{
+ 
+     align-self:center;
+
+}
